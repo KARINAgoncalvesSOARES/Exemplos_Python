@@ -6,6 +6,3 @@ Nesse repositório vamos trabalhar com alguns comandos que são utilizados no di
 
 
 
-
-
-Thanks God!
